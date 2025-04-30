@@ -29,8 +29,8 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/population-predictor.git
-   cd population-predictor
+   git clone https://github.com/Zeustika/PyPredict.git
+   cd PyPredict
    ```
 
 2. Install dependencies:
