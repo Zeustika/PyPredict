@@ -1,5 +1,5 @@
 
-# PyPredict-Aplikasi Prediksi Pertumbuhan Populasi Berbasis GUI Menggunakan Interpolasi Newton dan Regresi Linier
+# PyPredict-GUI-Based Population Growth Prediction Application Using Newton's Interpolation and Linear Regression
 
 ---
 
