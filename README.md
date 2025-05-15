@@ -40,7 +40,7 @@
 
 3. Run the app:
    ```bash
-   python test4.py
+   python PyPredict.py
    ```
 
 ---
